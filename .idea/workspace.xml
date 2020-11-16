@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Pull.Settings">
     <option name="BRANCH" value="main" />
   </component>
@@ -23,7 +30,49 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.e_plotting_regresions">
+  <component name="RunManager" selected="Python.Test seaborn">
+    <configuration name="Test seaborn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MACT20.21_Digital_tools_Big_Data_part_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session5/Test seaborn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a_customising_plots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MACT20.21_Digital_tools_Big_Data_part_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session5/a_customising_plots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="a_dataframe_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MACT20.21_Digital_tools_Big_Data_part_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -37,6 +86,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session4/a_dataframe_elements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="b_geospatial_visualisation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MACT20.21_Digital_tools_Big_Data_part_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session5/b_geospatial_visualisation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,8 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.e_plotting_regresions" />
+        <item itemvalue="Python.Test seaborn" />
+        <item itemvalue="Python.b_geospatial_visualisation" />
+        <item itemvalue="Python.a_customising_plots" />
         <item itemvalue="Python.a_dataframe_elements" />
+        <item itemvalue="Python.e_plotting_regresions" />
       </list>
     </recent_temporary>
   </component>
@@ -85,50 +158,65 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="949" height="396" key="GridCell.Tab.0.bottom" timestamp="1604925137139">
+    <state width="1899" height="396" key="GridCell.Tab.0.bottom" timestamp="1605468797603">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="949" height="396" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1604925137139" />
-    <state width="949" height="396" key="GridCell.Tab.0.center" timestamp="1604925137139">
+    <state width="1899" height="396" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1605468797603" />
+    <state width="1899" height="396" key="GridCell.Tab.0.center" timestamp="1605468797602">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="949" height="396" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1604925137139" />
-    <state width="949" height="396" key="GridCell.Tab.0.left" timestamp="1604925137139">
+    <state width="1899" height="396" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1605468797602" />
+    <state width="1899" height="396" key="GridCell.Tab.0.left" timestamp="1605468797602">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="949" height="396" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1604925137139" />
-    <state width="949" height="396" key="GridCell.Tab.0.right" timestamp="1604925137139">
+    <state width="1899" height="396" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1605468797602" />
+    <state width="1899" height="396" key="GridCell.Tab.0.right" timestamp="1605468797602">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="949" height="396" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1604925137139" />
-    <state width="949" height="396" key="GridCell.Tab.1.bottom" timestamp="1604925140581">
+    <state width="1899" height="396" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1605468797602" />
+    <state width="1899" height="396" key="GridCell.Tab.1.bottom" timestamp="1605468797603">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="949" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1604925140581" />
-    <state width="949" height="396" key="GridCell.Tab.1.center" timestamp="1604925140580">
+    <state width="1899" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1605468797603" />
+    <state width="1899" height="396" key="GridCell.Tab.1.center" timestamp="1605468797603">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="949" height="396" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1604925140580" />
-    <state width="949" height="396" key="GridCell.Tab.1.left" timestamp="1604925140580">
+    <state width="1899" height="396" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1605468797603" />
+    <state width="1899" height="396" key="GridCell.Tab.1.left" timestamp="1605468797603">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="949" height="396" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1604925140580" />
-    <state width="949" height="396" key="GridCell.Tab.1.right" timestamp="1604925140580">
+    <state width="1899" height="396" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1605468797603" />
+    <state width="1899" height="396" key="GridCell.Tab.1.right" timestamp="1605468797603">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="949" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1604925140580" />
-    <state x="462" y="226" key="SettingsEditor" timestamp="1604334805025">
+    <state width="1899" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1605468797603" />
+    <state x="431" y="354" key="SettingsEditor" timestamp="1605453630911">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="462" y="226" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1604334805025" />
+    <state x="431" y="354" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1605453630911" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/session4/e_plotting_regresions.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/session5/a_customising_plots.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/session5/a_customising_plots.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/session5/a_customising_plots.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/session5/Test seaborn.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
